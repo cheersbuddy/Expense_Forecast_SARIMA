@@ -30,6 +30,17 @@ This document provides a structured summary of forecasted expenses using SARIMA 
 
 ---
 
+# Forecast Visualization :
+
+![image](https://github.com/user-attachments/assets/3e5765eb-d044-40d9-9dce-03deef3339d2)
+
+---
+# ACF/PACF plot
+
+![image](https://github.com/user-attachments/assets/b5412c93-f06e-470a-9693-db051620959f)
+
+---
+ 
 ## 📌 Forecast Selection Logic
 
 **Users can select forecast periods based on the current date. Options are dynamically limited as follows:**
